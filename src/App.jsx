@@ -1,13 +1,16 @@
 import { useState } from 'react'
 import './App.css'
-import {Navbar} from './component'
+import React,{Component} from 'react'
+import {Navbar, footer} from './component'
+import { Homepage } from './pages/pages'
 
 function App() {
   return (
     
     <div>
       <Navbar />
-      {/* <button className="btn">Hello daisyUI</button> */}
+      <Homepage />
+      {/* <footer /> */}
     </div>
   )
 }
