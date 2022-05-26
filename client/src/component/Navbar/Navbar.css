@@ -1,0 +1,15 @@
+.Heading{
+    color: #C4C4C4;
+    font-size: 40px;
+}
+
+.title
+{
+    color: #3F62B5;
+    font-size: 40px;
+}
+
+.navbar a:hover{
+    /* background-color: rgb(117, 12, 12); */
+    /* color: red; */
+}

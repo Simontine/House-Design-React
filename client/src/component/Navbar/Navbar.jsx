@@ -46,7 +46,7 @@ const Navbar = () => {
           </div>
         </div>
         <div class="navbar-center">
-          <a class="btn btn-ghost normal-case text-xl"><span style={{color: "Green"}}>Hi</span><span className="Heading">Simon</span></a>
+          <a class="btn btn-ghost normal-case text-xl"><span className="title">Archi</span><span className="Heading">tecture</span></a>
         </div>
         <Router>
         <div className="navbar-end">
