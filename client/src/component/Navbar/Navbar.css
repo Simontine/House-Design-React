@@ -9,7 +9,7 @@
     font-size: 40px;
 }
 
-.navbar a:hover{
+.navbar-start a:hover{
     /* background-color: rgb(117, 12, 12); */
-    /* color: red; */
+    color: rgb(255, 0, 0);
 }
